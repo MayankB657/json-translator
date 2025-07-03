@@ -4,6 +4,7 @@ A simple tool to translate a JSON file from one language to another
 
 ## Features
 
+- Best for create laravel multilanguage json files
 - Translate a JSON file from one language to another
 - List supported languages
 - Only values are translated, not the keys
