@@ -1,0 +1,6 @@
+/vnev
+*.json
+!en.json
+!key.json
+.DS_Store
+.env
